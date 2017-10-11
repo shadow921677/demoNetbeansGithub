@@ -16,7 +16,7 @@ public class DemoNetbeansGithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("prise en main de netbeans avec github");
+        System.out.println("démo de prise en main de netbeans");
     }
     
 }
